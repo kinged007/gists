@@ -1,0 +1,2 @@
+# shows container resource stats using pretty names
+docker stats $(docker ps --format={{.Names}})

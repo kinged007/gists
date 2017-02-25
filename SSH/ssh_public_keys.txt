@@ -1,0 +1,3 @@
+# Get local public key
+
+$ cat ~/.ssh/id_rsa.pub
